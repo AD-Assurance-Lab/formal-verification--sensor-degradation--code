@@ -57,3 +57,7 @@ Read before writing code:
 - `formal-verification--automated-driving--code/docs/STATE_OF_PLAY.md`, sections 0, 0b, 0c
 - `formal-verification--automated-driving--code/docs/TRAPS.md` and `docs/CONSTRAINTS.md`
 - `lab--future-plans--docs/RESEARCH_DIRECTIONS.md`, entries A2, Q3 and R2
+
+## License
+
+Apache License 2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
